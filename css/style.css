@@ -1,0 +1,61 @@
+body {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 1rem;
+	-webkit-font-smoothing: antialiased;
+}
+
+#wrapper1 {
+	float: left;
+	padding-top: 8rem;
+	padding-left: 5rem;
+	text-align: center;
+	width: 300px;
+}
+
+img {
+	border-bottom: 1px solid black;
+}
+
+button {
+	border-radius: 10px;
+	font-family: 'Bree Serif', serif;
+	font-size: 1.3rem;
+	padding: 0.7rem;
+	border: 1px solid black;
+	background-color: white;
+}
+
+button:hover {
+	background-color: black;
+	color: white;
+}
+
+#ex1, #ex2, #ex3, #ex4, #ex5, #ex6, #ex7, #ex8, #ex9, #ex10, #ex11, #ex12, #ex13, #ex14, #ex15 {
+	width: 150px;
+	height: 150px;
+	border: 1px solid black;
+	border-radius: 10px;
+	margin: 8px;
+	float: left;
+	padding: 5px;
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-size: 0.8rem;
+}
+
+a:hover {
+	background-color: black;
+	color: white;
+}
+
+#results {
+	width: 900px;
+	float: right;
+	/*border: 1px solid black;*/
+	display: inline-block;
+	padding: 5px;
+}
